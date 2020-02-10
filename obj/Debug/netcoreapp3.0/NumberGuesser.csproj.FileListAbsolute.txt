@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\NumberGuesser\bin\Debug\netcoreapp3.0\NumberGuesser.exe
+C:\Users\Dell\Desktop\NumberGuesser\bin\Debug\netcoreapp3.0\NumberGuesser.deps.json
+C:\Users\Dell\Desktop\NumberGuesser\bin\Debug\netcoreapp3.0\NumberGuesser.runtimeconfig.json
+C:\Users\Dell\Desktop\NumberGuesser\bin\Debug\netcoreapp3.0\NumberGuesser.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\NumberGuesser\bin\Debug\netcoreapp3.0\NumberGuesser.dll
+C:\Users\Dell\Desktop\NumberGuesser\bin\Debug\netcoreapp3.0\NumberGuesser.pdb
+C:\Users\Dell\Desktop\NumberGuesser\obj\Debug\netcoreapp3.0\NumberGuesser.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\NumberGuesser\obj\Debug\netcoreapp3.0\NumberGuesser.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\NumberGuesser\obj\Debug\netcoreapp3.0\NumberGuesser.AssemblyInfo.cs
+C:\Users\Dell\Desktop\NumberGuesser\obj\Debug\netcoreapp3.0\NumberGuesser.dll
+C:\Users\Dell\Desktop\NumberGuesser\obj\Debug\netcoreapp3.0\NumberGuesser.pdb
